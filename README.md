@@ -11,6 +11,11 @@ This project demonstrates advanced data visualization techniques by transforming
 The project was developed as part of a **Data Science Internship** focusing on advanced visualization and dashboard development.
 
 ---
+# Live Demo
+
+https://netflix-interactive-dashboard1.streamlit.app/
+
+---
 
 ## 🚀 Features
 
